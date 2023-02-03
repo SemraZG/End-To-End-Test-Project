@@ -1,4 +1,4 @@
-@UITest
+@UITest @E2ETest
 Feature:Google_Feature
 
   Scenario:Google_Search

@@ -1,4 +1,2 @@
-package pages;
-
-public class class2 {
+package pages;public class class2 {
 }

@@ -1,4 +1,4 @@
 package utilities;
 
-public class AB {
+public class B {
 }
